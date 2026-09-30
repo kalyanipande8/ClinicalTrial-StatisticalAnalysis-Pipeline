@@ -1,0 +1,14 @@
+# This pipeline is written in R, not Python. This file lists the R
+# packages used (run via Rscript), kept as "requirements.txt" for
+# consistency with sibling projects' repo layout.
+#
+# Install with:
+#   Rscript -e 'install.packages(c("testthat", "ggplot2"))'
+#
+# All packages below were already installed in the environment this
+# pipeline was built and run in (R 4.5.1) -- no new installation was
+# required. Everything else used (lm, solve, t.test-equivalent math,
+# rbinom, rpois, read.csv/write.csv) is base R.
+
+testthat>=3.0.0   # test suite (tests/test_pipeline.R)
+ggplot2>=3.4.0    # optional plotting (not required for run_all.R itself)

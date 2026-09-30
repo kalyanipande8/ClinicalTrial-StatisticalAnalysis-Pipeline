@@ -1,0 +1,9 @@
+"program_id","indication","n_per_arm","true_effect","sd_endpoint","true_ae_rate_ctrl","true_ae_rate_trt"
+"PROG-01","Rheumatoid Arthritis",120,-4.5,9,0.22,0.31
+"PROG-02","Type 2 Diabetes",150,-0.8,1.6,0.18,0.24
+"PROG-03","Major Depressive Disorder",200,-3.2,7,0.3,0.34
+"PROG-04","Chronic Migraine",90,-2.1,5,0.25,0.29
+"PROG-05","Atopic Dermatitis",110,-5.8,10.5,0.35,0.48
+"PROG-06","COPD",175,-0.15,0.45,0.28,0.33
+"PROG-07","Osteoarthritis",130,-3.9,8.2,0.2,0.27
+"PROG-08","Ulcerative Colitis",95,-2.6,6.5,0.32,0.44
